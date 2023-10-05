@@ -1,4 +1,4 @@
-package ru.gapisovii.codewars;
+package ru.gapisovii.codewars.Task;
 
 public class Pisitive1 {
     public static int sum(int[] arr) {
